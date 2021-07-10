@@ -1,0 +1,7 @@
+This git repository is for people looking to learn NodeJS from the very basics.
+
+Briefly explains what different set contains:
+
+SET 1: Starting in NodeJS, with a very basic example, this set tells how to write to external .txt file from NodeJS. 
+SET 2: This section is about importing and exporting local node functions.
+SET 3: This section is very helpful for people looking to know how use npm modules. (This section talks about two such example i.e., validator and chalk)
